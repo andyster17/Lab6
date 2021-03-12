@@ -4,6 +4,7 @@
 
 
 # Your results for the 4 five letter pairs
+~~~
 Loaded words_dat.txt containing 5757 five-letter English words.
 Two words are connected if they differ in one letter.
 Graph has 5757 nodes with 14135 edges
@@ -54,7 +55,7 @@ peace
 peach
 Shortest path between pound and marks is
 None
-
+~~~
 # Your code for the four letter solution
 ~~~
 """
@@ -149,6 +150,7 @@ if __name__ == '__main__':
             print("None")
 ~~~
 # Your results for the 2 four letter pairs
+~~~
 Loaded words_dat.txt containing 5757 five-letter English words.
 Two words are connected if they differ in one letter.
 Graph has 2174 nodes with 8040 edges
@@ -174,7 +176,7 @@ beef
 Shortest path between make and take is
 make
 take
-
+~~~
 # Your code for the unordered solution
 ~~~
 """
@@ -277,6 +279,7 @@ if __name__ == '__main__':
             print("None")
 ~~~
 # Your results for the 4 five letter pairs using the unordered implementation
+~~~
 Loaded words_dat.txt containing 5757 five-letter English words.
 Two words are connected if they differ in one letter.
 Graph has 5757 nodes with 112278 edges
@@ -319,3 +322,4 @@ monad
 moans
 roams
 marks
+~~~
