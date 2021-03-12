@@ -56,7 +56,7 @@ Shortest path between pound and marks is
 None
 
 # Your code for the four letter solution
-'''
+~~~
 """
 =====
 Words
@@ -147,7 +147,7 @@ if __name__ == '__main__':
                 print(n)
         except nx.NetworkXNoPath:
             print("None")
-'''
+~~~
 # Your results for the 2 four letter pairs
 Loaded words_dat.txt containing 5757 five-letter English words.
 Two words are connected if they differ in one letter.
@@ -176,7 +176,7 @@ make
 take
 
 # Your code for the unordered solution
-'''
+~~~
 """
 =====
 Words
@@ -275,7 +275,7 @@ if __name__ == '__main__':
                 print(n)
         except nx.NetworkXNoPath:
             print("None")
-'''
+~~~
 # Your results for the 4 five letter pairs using the unordered implementation
 Loaded words_dat.txt containing 5757 five-letter English words.
 Two words are connected if they differ in one letter.
